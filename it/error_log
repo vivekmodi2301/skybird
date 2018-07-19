@@ -1,0 +1,7 @@
+[01-Oct-2017 15:07:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/skybird/public_html/it/function.php on line 2
+[01-Oct-2017 15:07:18 UTC] PHP Warning:  mysql_connect(): Access denied for user 'skybird'@'localhost' (using password: YES) in /home/skybird/public_html/it/function.php on line 2
+[01-Oct-2017 15:07:18 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/skybird/public_html/it/function.php on line 3
+[01-Oct-2017 15:07:18 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/skybird/public_html/it/header.php on line 26
+[01-Oct-2017 15:07:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/skybird/public_html/it/header.php on line 26
+[01-Oct-2017 15:07:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/skybird/public_html/it/header.php on line 26
+[01-Oct-2017 15:07:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/skybird/public_html/it/header.php on line 27
